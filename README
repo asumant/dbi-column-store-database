@@ -1,0 +1,3 @@
+This is a CSE 510 academic project. Aim is to implement
+1. column store database management system on the top of row oriented DB called "minibase"
+2. implement sort merge join and some other relational operations and indexes like bitmap for query evaluation.
