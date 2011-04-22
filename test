@@ -1,0 +1,9 @@
+* Added columnDB suppport
+* Added persistency code for columnar file
+M       minjava/javaminibase/src/columnar/Columnarfile.java
+A       minjava/javaminibase/src/columnar/ColumnarFileTest.java
+A       minjava/javaminibase/src/columnar/ColumnarFileInfo.java
+M       minjava/javaminibase/src/global/GlobalConst.java
+A       minjava/javaminibase/src/diskmgr/ColumnDB.java
+A       minjava/javaminibase/src/tests/ColumnDBTest.java
+M       minjava/javaminibase/src/Makefile
